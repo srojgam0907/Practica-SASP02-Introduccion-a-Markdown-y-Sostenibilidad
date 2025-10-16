@@ -24,7 +24,7 @@ La siguiente imagen muestra todos los ODS
 
 Tareas para ser más sostenible en informática
 
-* [ ] 
-* [ ] 
-* [ ] 
-* [ ] 
+* [x] Apagar el ordenador si no lo vas a usar.
+* [ ] Comprar equipos reacondicionados.
+* [ ] Al programar, optimizar el codigo todo lo posible.
+* [x] Intentar reparar un dispositivo antes comprar uno nuevo.
